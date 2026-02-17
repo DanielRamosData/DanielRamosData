@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hola, soy Daniel Ramos
 
-<!--
-**DanielRamosData/DanielRamosData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas  
+📊 Enfocado en Análisis de Datos 
+🚀 Construyendo proyectos prácticos para fortalecer mi perfil profesional  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyecto Destacado
+
+### 📌 Aplicación Web con Streamlit
+Aplicación desarrollada en Python utilizando Streamlit y desplegada en la nube.
+
+🔗 Demo en vivo:  
+https://proyecto-python-modulo1-vgiureqrwdwa8lgappwykj.streamlit.app/
+
+🔗 Repositorio:  
+https://github.com/DanielRamosData/proyecto-python-modulo1
+
+---
+
+## 🛠 Tecnologías que utilizo
+
+- Python
+- SQL
+- Power BI
+- Streamlit
+- Git & GitHub
+
+---
+
+## 📈 Actualmente estoy
+
+- Mejorando mis habilidades en análisis de datos
+- Construyendo proyectos prácticos
+- Preparándome para roles de Analista de Datos Junior
+
+---
+
+## 📫 Conecta conmigo
+
+Próximamente LinkedIn...
